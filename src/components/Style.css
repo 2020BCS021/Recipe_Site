@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+/* .container {
+    margin-bottom: 10px;
+} */
+
+
+/* Home Page */
+
+.temp_form {
+    text-align: center;
+    border-radius: 30px;
+    /* padding: 20px; */
+}
+
+#RecipeName {
+    width: 35rem;
+    border-radius: 30px;
+    margin-right: 7px;
+    padding: 10px;
+}
+
+.container1 {
+    height: 250px;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    /* transform: 'rotate(90deg)'; */
+}
+
+
+/* .container1 h1 {
+    margin-left: 400px;
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+} */
+
+.container1 .img1 {
+    margin-left: 65rem;
+    height: 194px;
+}
+
+.container1 .img2 {
+    margin-left: -176px;
+    margin-top: 99px;
+    height: 108px;
+    display: flex;
+    flex-direction: row;
+}
+
+#RecipeName {
+    width: 30rem;
+    border-radius: 30px;
+    margin-right: 7px;
+}
+
+
+/*  Create page */
+
+#imfo1 {
+    padding-left: 10rem;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-basis: 20px;
+    /* background-color: rgb(221, 220, 220); */
+}
+
+.Create {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-basis: 20px;
+    /* background-color: lightgrey; */
+}
+
+.Create h5 {
+    padding-left: 25rem;
+    margin-top: 30px;
+}
+
+.LCreate {
+    margin-left: 15px;
+}
+
+.Create input {
+    width: 300px;
+    border-radius: 3px;
+    border-color: #d6d2c9;
+    padding: 4px;
+}
+
+.Create textarea {
+    border-radius: 3px;
+    border-color: #d6d2c9;
+}
+
+.Create1 {
+    /* padding: 10px; */
+    display: flex;
+    flex-direction: column;
+    flex-basis: 20px;
+}
+
+.info2 {
+    /* display: flex; */
+    /* flex-direction: row; */
+    padding: 10px;
+}
